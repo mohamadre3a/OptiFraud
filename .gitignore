@@ -1,0 +1,29 @@
+# Dataset and downloaded archives
+FiFAR/
+fifar/
+FiFAR*.zip
+fifar*.zip
+
+# Python environments and caches
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Local credentials and Gurobi files
+.env
+.env.*
+!.env.example
+gurobi.lic
+gurobi.log
+
+# Detailed application-level export
+outputs/application_audit.csv
+
+# Operating system files
+.DS_Store
+Thumbs.db
