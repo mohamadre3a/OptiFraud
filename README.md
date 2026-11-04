@@ -8,7 +8,7 @@ Combines calibrated XGBoost fraud predictions, analyst-specific cost models, and
 
 - Compare automation, risk-based review, greedy assignment, and joint optimization.
 - Evaluate held-out decision costs, fraud errors, and analyst workloads.
-- Examine review capacity, analyst absences, and validation-selected automation thresholds.
+- Examine review capacity, analyst workloads, and analyst absences.
 
 ## Getting started
 
